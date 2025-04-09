@@ -2,5 +2,6 @@
 
 
 fun=()=>{
-	document.getElementById("status").innerHTML("Entered Metaverse")
+	
+	document.getElementById("status").innerHTML="Entered Metaverse"
 }
